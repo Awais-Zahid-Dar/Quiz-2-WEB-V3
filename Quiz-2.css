@@ -1,0 +1,220 @@
+.one{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    height:100px;
+    width:60%;
+    margin-left:250px;
+    background-color:#00b7ff;
+}
+.part1{
+    height:50px;
+    width:100px;
+    background-color: black;
+}
+.part2{
+    width:40%;
+    height:20%;
+    position:relative;
+}
+.oval1 {
+    position:absolute;
+    width: 90px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    height: 50px;
+    border-radius: 50%;
+    margin-left:10px;
+    background-color: black;
+  }
+.oval2{
+    position:absolute;
+    width: 90px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    height: 50px;
+    border-radius: 50%;
+    margin-left:100px;
+    background-color: black;
+  }
+.oval3{
+    position:absolute;
+    width: 90px;
+    top:50%;
+    left:23%;
+    transform:translate(-50%,-50%);
+    height: 50px;
+    border-radius: 50%;
+   
+    background-color: black;
+  }
+.two{
+    position:relative;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    height:300px;
+    width:100%;
+    background-color: gray;
+}
+.two-rec{
+    height:90px;
+    width:300px;
+    background-color: #2d3192;
+    margin-left:200px;
+}
+.two-cri{
+    position:absolute;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: #2d3192;
+    margin-left: 900px;
+}
+.three{
+    position:relative;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap:wrap;
+    height:800px;
+    width:100%;
+    background-color: #2d3192;
+}
+.three-1{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:20%;
+    transform:translate(-50%,-50%);
+    background-color: #00b7ff;
+}
+.three-2{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:40%;
+    transform:translate(-50%,-50%);
+    background-color: white;
+}
+.three-3{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:60%;
+    transform:translate(-50%,-50%);
+    background-color:#00b7ff;
+}
+.three-4{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:80%;
+    transform:translate(-50%,-50%);
+    background-color:#00b7ff;
+}
+.three-5{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:20%;
+    transform:translate(-50%,-50%);
+    margin-top:290px;
+    background-color:#00b7ff;
+}
+.three-6{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:40%;
+    transform:translate(-50%,-50%);
+    margin-top:290px;
+    background-color:#00b7ff;
+}
+.three-7{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:60%;
+    transform:translate(-50%,-50%);
+    margin-top:290px;
+    background-color:#00b7ff;
+}
+.three-8{
+    position:absolute;
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    top:30%;
+    left:80%;
+    transform:translate(-50%,-50%);
+    margin-top:290px;
+    background-color:#00b7ff;
+}
+.four{
+    position:relative;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap:wrap;
+    height:400px;
+    width:100%;
+    background-color:#c8c8c8;
+}
+.four-1{
+    position:absolute;
+    width: 1000px;
+    height: 250px;
+    border-radius: 10px;
+    left:10%;
+    transform:translate(-50%,-50%);
+    margin-top:290px;
+    margin-left:500px;
+    background-color:#00b7ff;
+    border:2px solid black;
+    text-align:center;
+}
+.four-2{
+    margin-top:20px;
+    width:40%;
+    color:white;
+    text-align: center;
+    position: absolute;
+}
+.four-3{
+    position:absolute;
+    width: 100px;
+    top:25%;
+    left:43%;
+  
+    
+    height: 100px;
+    border-radius: 50%;
+    transform:translate(490%,-50%);
+    background-color:#00b7ff;
+    border:2px solid black;
+}
+.four-3 p{
+    position:absolute;
+    top:35%;
+    left:55%;
+    color: white;
+}
